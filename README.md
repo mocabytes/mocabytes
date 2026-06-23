@@ -38,13 +38,12 @@ Welcome to my GitHub profile! I am an Informatics Engineering student with a hyb
 A commercial-grade web platform for clinics and pharmacies built under the MVC architecture.
 - **Stack:** PHP, Laravel framework, MySQL, JavaScript, AJAX, Tailwind CSS.
 - **Key Features:** Role-Based Access Control (RBAC) for admins and pharmacists, reactive interfaces with dynamic AJAX searches, and automated background tasks (Cron Jobs) for batch expiration alerts.
-- **Repo:** [github.com/mocabyte/medu](https://github.com/mocabyte/medu) | **Live Demo:** [medu.vercel.app](https://medu.vercel.app/)
 
 ### 🛒 Manos Creativas — Artisan E-Commerce Store
 An agile and responsive e-commerce web platform designed to boost the visibility of local craftsmen.
 - **Stack:** Python, Flask, Bootstrap 5, HTML5, CSS3, ReflowHQ.
 - **Key Features:** Automated cart persistence, cloud-managed product catalog, and seamless integration of third-party payment gateways for optimized checkout experiences.
-- **Repo:** [github.com/mocabytes/Manos-Creativas](https://github.com/mocabytes/Manos-Creativas) | **Live Demo:** [manoscreativas.vercel.app](https://manoscreativas.vercel.app/)
+
 
 ---
 
@@ -56,7 +55,7 @@ An agile and responsive e-commerce web platform designed to boost the visibility
 - Monitor enterprise network systems, write comprehensive technical documentation, and ensure methodical tracking of system incidents.
 
 ### 📊 Store Assistant Manager & Technical Support | Canguro
-*(January 2026 - April 2026)*
+*(January 2026 - May 2026)*
 - Coordinated operational staff, managed digital inventories, and evaluated management KPIs to optimize commercial workflows.
 - Performed high-quality hardware diagnostics, corrective maintenance, and successful physical repair of over 150 mobile devices.
 
