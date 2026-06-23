@@ -1,13 +1,11 @@
 # 👋 Hi there! I'm Maria Serrano
 
-Welcome to my GitHub profile! I am a Computer Science Engineering student and an IT Operations specialist. I blend deep technical know-how in network infrastructure, system administration, and full-stack development with a proven track record in operations management and technical client support.
+### 🚀 Full Stack Developer | Informatics Engineering Student | IT Infrastructure Support
 
----
+Welcome to my GitHub profile! I am an Informatics Engineering student with a hybrid profile that combines strong technical logic in Full Stack web development with hands-on experience in network infrastructure, system administration, and technical client support.
 
-## 🎓 Education & Certifications
-- **B.S. in Computer Science Engineering** | Universidad Nacional Experimental de las Telecomunicaciones e Informática (UNETI) *(2024 - Present)*
-- **Full Stack Open Certification** | University of Helsinki *(Ongoing)* — Focus: Modern Web Development (React, Node.js, REST APIs, JavaScript).
-- **Diploma in User & Equipment Technical IT Support**
+🔗 **Explore my live portfolio:** [mariaserrano.tech](https://mariaserrano.tech)
+💼 **Connect on LinkedIn:** [linkedin.com/in/macastillejo](https://linkedin.com/in/macastillejo)
 
 ---
 
@@ -16,42 +14,58 @@ Welcome to my GitHub profile! I am a Computer Science Engineering student and an
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)](https://laravel.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescript.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/)
+[![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white)](https://astro.build/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white)](https://www.odoo.com/)
 
-- **Backend & Frameworks:** PHP (Laravel), Node.js (Vite), Python (Flask, Tkinter).
-- **Frontend & UI/UX:** JavaScript, React, HTML5, CSS3, Tailwind CSS, Bootstrap 5, Figma.
+- **Backend & Frameworks:** PHP (Laravel), Python (Flask), Node.js.
+- **Frontend & UI/UX:** JavaScript, TypeScript, React, Astro, Next.js, Tailwind CSS, Bootstrap 5, Adobe Photoshop & Illustrator.
 - **Databases & SQL:** MySQL, PostgreSQL, SQLite.
-- **IT Infrastructure & Networking:** System monitoring, OS deployment (Acronis True Image), Advanced Windows/Linux Administration, UTP Cabling (T568A/T568B standards).
-- **Tools & Operations:** Odoo ERP, Notion, Google Workspace, Microsoft Excel (Macros & Data Automation).
+- **Tools, Systems & Cloud:** Git, GitHub, Linux, Cloud Environments, Asana, Vercel, Vite, Postman.
+- **IT Infrastructure & Support:** Server maintenance, network infrastructure monitoring, technical hardware diagnostic & IT support.
 
 ---
 
-## 🚀 Key Projects
+## 🚀 Featured Projects
 
-### 💊 Medu — Pharmacy Inventory Management System
-A comprehensive, full-stack web application tailored to optimize pharmaceutical stock tracking, secure authentication, and relational database operations.
-- **Stack:** PHP, Laravel framework, MySQL.
-- **Key Features:** Relational CRUD management, streamlined user sessions, and real-time inventory reporting.
+### 💊 Medu — Clinical Inventory Management System
+A commercial-grade web platform for clinics and pharmacies built under the MVC architecture.
+- **Stack:** PHP, Laravel framework, MySQL, JavaScript, AJAX, Tailwind CSS.
+- **Key Features:** Role-Based Access Control (RBAC) for admins and pharmacists, reactive interfaces with dynamic AJAX searches, and automated background tasks (Cron Jobs) for batch expiration alerts.
+- **Repo:** [github.com/mocabyte/medu](https://github.com/mocabyte/medu) | **Live Demo:** [medu.vercel.app](https://medu.vercel.app/)
 
-### 📶 Infrastructure Monitoring & Logging (CANTV Internships)
-- Assisting in the management and tracking of critical internal plant transmission and data infrastructure.
-- Systematized incident logs and equipment status into structured reporting systems to streamline corporate technical communication.
-- Performed hardware corrective maintenance on production network servers and resolved enterprise antivirus security failures.
-- Standardized OS deployment using automated bootable tools, significantly reducing hardware downtime.
-
-### 📊 Retail Tech Operations & ERP Automation (Canguro)
-- Acted as Assistant Store Manager, managing inventory audits and automated billing workflows using Odoo ERP.
-- Designed custom operational workflows in Notion, successfully optimizing team planning and communication between technical and sales departments.
+### 🛒 Manos Creativas — Artisan E-Commerce Store
+An agile and responsive e-commerce web platform designed to boost the visibility of local craftsmen.
+- **Stack:** Python, Flask, Bootstrap 5, HTML5, CSS3, ReflowHQ.
+- **Key Features:** Automated cart persistence, cloud-managed product catalog, and seamless integration of third-party payment gateways for optimized checkout experiences.
+- **Repo:** [github.com/mocabytes/Manos-Creativas](https://github.com/mocabytes/Manos-Creativas) | **Live Demo:** [manoscreativas.vercel.app](https://manoscreativas.vercel.app/)
 
 ---
 
-## 🌐 Languages
-- **Spanish:** Native
-- **English:** Advanced / Professional (EF SET C1 Certified 🏆)
+## 💼 Professional Experience Highlight
+
+### 📶 Network Management Intern | CANTV
+*Gerencia General de Tecnología y Operaciones (GTO)* *(May 2026 - Present)*
+- Provide specialized operational support within the network technology infrastructure department.
+- Monitor enterprise network systems, write comprehensive technical documentation, and ensure methodical tracking of system incidents.
+
+### 📊 Store Assistant Manager & Technical Support | Canguro
+*(January 2026 - April 2026)*
+- Coordinated operational staff, managed digital inventories, and evaluated management KPIs to optimize commercial workflows.
+- Performed high-quality hardware diagnostics, corrective maintenance, and successful physical repair of over 150 mobile devices.
+
+---
+
+## 🎓 Education & Certifications
+- **B.S. in Informatics Engineering (2nd Year)** | Universidad Nacional Experimental de las Telecomunicaciones e Informática (UNETI) *In Progress*.
+- **Full Stack Open Program** | University of Helsinki — Modern Web Development with React, Node.js, and modern JavaScript ecosystems.
+- **C1 Advanced English Certification** | EF SET Certificate (Fluent written and verbal proficiency for international professional environments) 🏆.
 
 ---
 
@@ -64,9 +78,9 @@ A comprehensive, full-stack web application tailored to optimize pharmaceutical 
 ---
 
 ## 🔍 Currently focusing on
-- Advanced Full-Stack architectures (JavaScript, React, Node.js) via the Full Stack Open program.
-- High-availability network infrastructure and infrastructure support engineering.
-- Relational database scaling and advanced Laravel backend architectures.
+- Production-ready Full Stack architectures (TypeScript, React, Node.js) via the Full Stack Open program.
+- Scalable relational database designs and high-performance Laravel backend engineering.
+- High-availability network infrastructure management and automated systems deployment.
 
 ---
 
